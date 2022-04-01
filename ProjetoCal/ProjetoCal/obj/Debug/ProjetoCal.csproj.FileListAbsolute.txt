@@ -1,0 +1,17 @@
+C:\Users\Camilly\Documents\MateriadoJOAO\ProjetoCal\ProjetoCal\bin\Debug\ProjetoCal.exe.config
+C:\Users\Camilly\Documents\MateriadoJOAO\ProjetoCal\ProjetoCal\bin\Debug\ProjetoCal.exe
+C:\Users\Camilly\Documents\MateriadoJOAO\ProjetoCal\ProjetoCal\bin\Debug\ProjetoCal.pdb
+C:\Users\Camilly\Documents\MateriadoJOAO\ProjetoCal\ProjetoCal\obj\Debug\ProjetoCal.csproj.AssemblyReference.cache
+C:\Users\Camilly\Documents\MateriadoJOAO\ProjetoCal\ProjetoCal\obj\Debug\MainWindow.g.cs
+C:\Users\Camilly\Documents\MateriadoJOAO\ProjetoCal\ProjetoCal\obj\Debug\App.g.cs
+C:\Users\Camilly\Documents\MateriadoJOAO\ProjetoCal\ProjetoCal\obj\Debug\ProjetoCal_MarkupCompile.cache
+C:\Users\Camilly\Documents\MateriadoJOAO\ProjetoCal\ProjetoCal\obj\Debug\ProjetoCal_MarkupCompile.lref
+C:\Users\Camilly\Documents\MateriadoJOAO\ProjetoCal\ProjetoCal\obj\Debug\MainWindow.baml
+C:\Users\Camilly\Documents\MateriadoJOAO\ProjetoCal\ProjetoCal\obj\Debug\ProjetoCal.g.resources
+C:\Users\Camilly\Documents\MateriadoJOAO\ProjetoCal\ProjetoCal\obj\Debug\ProjetoCal.Properties.Resources.resources
+C:\Users\Camilly\Documents\MateriadoJOAO\ProjetoCal\ProjetoCal\obj\Debug\ProjetoCal.csproj.GenerateResource.cache
+C:\Users\Camilly\Documents\MateriadoJOAO\ProjetoCal\ProjetoCal\obj\Debug\ProjetoCal.csproj.CoreCompileInputs.cache
+C:\Users\Camilly\Documents\MateriadoJOAO\ProjetoCal\ProjetoCal\obj\Debug\ProjetoCal.exe
+C:\Users\Camilly\Documents\MateriadoJOAO\ProjetoCal\ProjetoCal\obj\Debug\ProjetoCal.pdb
+C:\Users\Camilly\Documents\MateriadoJOAO\ProjetoCal\ProjetoCal\obj\Debug\Calculadora.g.cs
+C:\Users\Camilly\Documents\MateriadoJOAO\ProjetoCal\ProjetoCal\obj\Debug\Calculadora.baml
